@@ -7,3 +7,6 @@
 /captures
 /.idea/dictionaries
 /monkeytong.jks
+/.idea
+/app/*.iml
+/*.iml
